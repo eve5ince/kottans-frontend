@@ -9,7 +9,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 ![completed vc tasks](https://raw.githubusercontent.com/eve5ince/kottans-frontend/main/0_git_basics/udacity_vc.png)
 ## 1. Linux CLI and Networking
 #### Linux CLI   
-  As I am newbie to Linux, finishing this chapter was actually valuable. The command line seems very powerful tool, especially with git, and I am glad to know how to perform basic tasks with it. 
+  As I am newbie to Linux, finishing this chapter was actually valuable. The command line seems very powerful tool, especially with git, and I am glad to know how to perform basic tasks with it. https://github.com/eve5ince/kottans-frontend
 ![completed linux survival proof](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival.png)  
   Some commands to remember:
 * cp -r, rm -r - copy/remove files on trees 
@@ -23,7 +23,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 * man - manual  
 #### Networking
   Reading articles about Networking, I got known some of HTTP's basics: request verbs, status codes, request/response headers, using HTTP in web frameworks; also HTTP connections, connection handling, authentication, HTTPS, and cache processing.   
-  ## 3. Git Collaboration   
+## 2. Git Collaboration   
 In this task I've learned how to work with remote repositories: how to push or get changes from remote repos; forking a repository; looking in CONTRIBUTING.md file and project issues, before start doing any work; working on "topic" branches; creating pull requests; squashing commits with rebase command, and the importance of communicating clearly and frequently with other stakeholders in the project. 
 ![completed git collaboration course](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/git_collaboration.png)
 ![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching1.png)
