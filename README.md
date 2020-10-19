@@ -22,5 +22,10 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 * grep - find words in text
 * man - manual  
 #### Networking
-  Reading articles about Networking, I got known some of HTTP's basics: request verbs, status codes, request/response headers, using HTTP in web frameworks; also HTTP connections, connection handling, authentication, HTTPS, and cache processing. 
+  Reading articles about Networking, I got known some of HTTP's basics: request verbs, status codes, request/response headers, using HTTP in web frameworks; also HTTP connections, connection handling, authentication, HTTPS, and cache processing.   
+  ## 3. Git Collaboration   
+In this task I've learned how to work with remote repositories: how to push or get changes from remote repos; forking a repository; looking in CONTRIBUTING.md file and project issues, before start doing any work; working on "topic" branches; creating pull requests; squashing commits with rebase command, and the importance of communicating clearly and frequently with other stakeholders in the project. 
+![completed git collaboration course](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/git_collaboration.png)
+![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching1.png)
+![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching2.png)
  
