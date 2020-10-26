@@ -34,5 +34,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 In this task I've learned how to work with remote repositories: how to push or get changes from remote repos; forking a repository; looking in CONTRIBUTING.md file and project issues, before start doing any work; working on "topic" branches; creating pull requests; squashing commits with rebase command, and the importance of communicating clearly and frequently with other stakeholders in the project. 
 ![completed git collaboration course](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/git_collaboration.png)
 ![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching1.png)
-![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching2.png)
- 
+![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching2.png)  
+## 3. Intro to HTML and CSS
+Mostly I have refreshed HTML/CSS knowledges; some were new for me, such as !important flag, which overrides any style; CSS Grid properties: grid-area(a shorthand which specifies an item's location and size), grid-template-areas(allows the naming of sections of a webpage), grid-auto-flow(specifies whether implicity-added elements should be added as rows or columns within a grid), grid-auto-rows(implicitly-added rows or columns occur when there are more grid items than cells available); also I find CSS transition pretty cool tool, which allows you to provide visual feedback to users.
+
