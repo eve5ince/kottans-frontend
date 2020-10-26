@@ -5,7 +5,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 - [x] 1 - Linux CLI and Networking  
 - [x] 2 - VCS (hello gitty), Github and Collaboration
 #### Front-End Basics  
-- [ ] 3 - Intro to HTML & CSS
+- [x] 3 - Intro to HTML & CSS
 - [ ] 4 - Responsive Web Design
 - [ ] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
