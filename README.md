@@ -6,7 +6,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 - [x] 2 - VCS (hello gitty), Github and Collaboration
 #### Front-End Basics  
 - [x] 3 - Intro to HTML & CSS
-- [ ] 4 - Responsive Web Design
+- [x] 4 - Responsive Web Design
 - [ ] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
 - [ ] 7 - Document Object Model - practice
@@ -63,3 +63,6 @@ Creating responsive *tables*, there are 3 techniques to decide:
 1. *Hidden Columns* - using ``` display:none; ```, hides columns based on their importance, as the viewports size gets smaller  
 2. *No more tables* - positioning table's content way off screen  
 3. *Contained tables* - wrapped in a div table with *scroll*; set ``` width:100%;``` and ``` overflow-x: auto; ``` 
+***
+![Finished course of responsive web design ss](https://github.com/eve5ince/kottans-frontend/blob/main/task_responsive_web_design/finished_responsive_design.png)
+![Finished flexbox Froggy ss](https://github.com/eve5ince/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.png)
