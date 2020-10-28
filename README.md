@@ -50,7 +50,7 @@ By finishing this task, I've learned some basic concepts of repsonsive design , 
 * always set ``` <meta name="viewport" content="width=device-width, initial-scale=1.0"> ```
 * use **responsive design mode** in dev tools
 * set **relative** units in specifying widths for elements(preventing from overflow) 
-* set tap targets size for **48x48** px
+* set tap targets size for **48x48 px** 
 * start responsive design for *smaller* viewport, *prioritizing* content for users
 * use *media queries* to control styles for different viewports
 * use flexbox/grid for creating responsive layouts
