@@ -14,7 +14,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
  Completing the task, I've learned basics of Git. Since this tool is new for me, I was really surprised by incredible important possibilities of version control.   
  Now, using command line, I can initialize repositories, add files on staging index, make commits, point tags; create branches, developing safely and isolated, merge branches together; undo or modify changes that have been saved to the repo.
 <details>
-  <summary>Screenshots here</summary>
+  <summary>Screenshots here :bookmark:</summary>
  
 ![completed version control course](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_basics/udacity_vc.png)
 ![finished learn git branching main](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_basics/learn_git_branching1.png)
@@ -36,7 +36,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 * grep - find words in text
 * man - manual
 <details>
-  <summary>Screenshots here</summary>
+  <summary>Screenshots here :bookmark:</summary>
  
 ![finished quiz 1](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival_1.png)
 ![finished quiz 2](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival_2.png)
@@ -49,7 +49,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 ## 2. Git Collaboration   
 In this task I've learned how to work with remote repositories: how to push or get changes from remote repos; forking a repository; looking in CONTRIBUTING.md file and project issues, before start doing any work; working on "topic" branches; creating pull requests; squashing commits with rebase command, and the importance of communicating clearly and frequently with other stakeholders in the project.
 <details>
-  <summary>Screenshots here</summary>
+  <summary>Screenshots here :bookmark:</summary>
  
 ![completed git collaboration course](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/git_collaboration.png)
 ![completed learn git branching](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_collaboration/learn_git_branching1.png)
@@ -59,7 +59,7 @@ In this task I've learned how to work with remote repositories: how to push or g
 ## 3. Intro to HTML and CSS
 Mostly I have refreshed HTML/CSS knowledges; some were new for me, such as ```!important``` flag, which overrides any style; CSS Grid properties: ```grid-area```(a shorthand which specifies an item's location and size), ```grid-template-areas```(allows the naming of sections of a webpage), ```grid-auto-flow```(specifies whether implicity-added elements should be added as rows or columns within a grid), ```grid-auto-rows```(implicitly-added rows or columns occur when there are more grid items than cells available); also I find CSS ```transition``` pretty cool tool, which allows you to provide visual feedback to users.
 <details>
-  <summary>Screenshots here</summary>
+  <summary>Screenshots here :bookmark:</summary>
  
 ![completed intro to HTML and CSS](https://github.com/eve5ince/kottans-frontend/blob/main/task_html_css_intro/completed_learnHTML.png)
 ![finished HTML course](https://github.com/eve5ince/kottans-frontend/blob/main/task_html_css_intro/finished_learnHTML.png)
@@ -90,7 +90,7 @@ Creating responsive *tables*, there are 3 techniques to decide:
 2. *No more tables* - positioning table's content way off screen  
 3. *Contained tables* - wrapped in a div table with *scroll*; set ``` width:100%;``` and ``` overflow-x: auto; ``` 
 <details>
-  <summary>Screenshots here</summary>
+  <summary>Screenshots here :bookmark:</summary>
  
 ![Finished course of responsive web design ss](https://github.com/eve5ince/kottans-frontend/blob/main/task_responsive_web_design/finished_responsive_design.png)
 ![Finished flexbox Froggy ss](https://github.com/eve5ince/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.png)
