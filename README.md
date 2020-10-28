@@ -14,9 +14,14 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
  Completing the task, I've learned basics of Git. Since this tool is new for me, I was really surprised by incredible important possibilities of version control.   
  Now, using command line, I can initialize repositories, add files on staging index, make commits, point tags; create branches, developing safely and isolated, merge branches together; undo or modify changes that have been saved to the repo.
 ***
+<details>
+  <summary>Screenshots here</summary>
+ 
 ![completed version control course](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_basics/udacity_vc.png)
 ![finished learn git branching main](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_basics/learn_git_branching1.png)
 ![finished learn git branching remote](https://github.com/eve5ince/kottans-frontend/blob/main/task_git_basics/learn_git_branching2.png)
+</details> 
+
 ## 1. Linux CLI and Networking
 #### Linux CLI   
   As I am newbie to Linux, finishing this chapter was actually valuable. The command line seems very powerful tool, especially with git, and I am glad to know how to perform basic tasks with it.
