@@ -34,7 +34,16 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 * ps - show system processes
 * kill, kill -9
 * grep - find words in text
-* man - manual  
+* man - manual
+<details>
+  <summary>Screenshots here</summary>
+ 
+![finished quiz 1](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival_1.png)
+![finished quiz 2](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival_2.png)
+![finished quiz 3](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival_3.png)
+![finished quiz 4](https://github.com/eve5ince/kottans-frontend/blob/main/task_linux_cli/linux_survival_4.png)
+</details> 
+
 #### Networking
   Reading articles about Networking, I got known some of HTTP's basics: request verbs, status codes, request/response headers, using HTTP in web frameworks; also HTTP connections, connection handling, authentication, HTTPS, and cache processing.   
 ## 2. Git Collaboration   
