@@ -40,4 +40,26 @@ Mostly I have refreshed HTML/CSS knowledges; some were new for me, such as !impo
 ![completed intro to HTML and CSS](https://github.com/eve5ince/kottans-frontend/blob/main/task_html_css_intro/completed_learnHTML.png)
 ![finished HTML course](https://github.com/eve5ince/kottans-frontend/blob/main/task_html_css_intro/finished_learnHTML.png)
 ![finished CSS course](https://github.com/eve5ince/kottans-frontend/blob/main/task_html_css_intro/finished_learnCSS.png)
-
+## 4. Responsive Web Design 
+By finishing this task, I've learned some basic concepts of repsonsive design , such as:
+* always set ``` <meta name="viewport" content="width=device-width, initial-scale=1.0"> ```
+* use **responsive design mode** in dev tools
+* set **relative** units in specifying widths for elements(preventing from overflow) 
+* set tap targets size for **48x48** px
+* start responsive design for *smaller* viewport, *prioritizing* content for users
+* use *media queries* to control styles for different viewports
+* use flexbox/grid for creating responsive layouts
+* use the ``` picture ``` element for responsive images (provides multiple versions of an image based on different characteristics, like device size, device resolution, orientation etc)
+* ideal measure for the lenght of a line is **65 cpl** > use *measures* as a factor for picking **breakpoints**
+* add minor breakpoints too   
+***
+There are 4 evolving patterns for responsive design: 
+1. **Column Drop** - the simplest one, at narrowest viewport, each element simply stacks vertically, one on top of the other  
+2. **Mostly Fluid** - very similiar to Column Drop, but with more columns fitting in different ways; at narrowest is the same, at its widest margins are added on the left and right, instead of expanding  
+3. **Layout Shifter** - the most responsive layout, using flex ``` order ``` attribute to move content, instead of reflowing or dropping columns  
+4. **Off Canvas** - at smaller viewport places less frequetly using content off screen, showing it when user taps on burger icon(for eg); on wider viewport the content is shown by default  
+***
+Creating responsive *tables*, there are 3 techniques to decide: 
+1. *Hidden Columns* - using ``` display:none; ```, hides columns based on their importance, as the viewports size gets smaller  
+2. *No more tables* - positioning table's content way off screen  
+3. *Contained tables* - wrapped in a div table with *scroll*; set ``` width:100%;``` and ``` overflow-x: auto; ``` 
