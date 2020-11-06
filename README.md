@@ -7,7 +7,7 @@ My participating in the *[course](https://github.com/kottans/frontend/blob/maste
 #### Front-End Basics  
 - [x] 3 - Intro to HTML & CSS
 - [x] 4 - Responsive Web Design
-- [ ] 5 - HTML & CSS Practice
+- [x] 5 - HTML & CSS Practice
 - [ ] 6 - JavaScript Basics
 - [ ] 7 - Document Object Model - practice
 ## 0. Git Basics 
@@ -95,3 +95,7 @@ Creating responsive *tables*, there are 3 techniques to decide:
 ![Finished course of responsive web design ss](https://github.com/eve5ince/kottans-frontend/blob/main/task_responsive_web_design/finished_responsive_design.png)
 ![Finished flexbox Froggy ss](https://github.com/eve5ince/kottans-frontend/blob/main/task_responsive_web_design/flexbox_froggy.png)
 </details>
+
+## 5. HTML & CSS Practice
+[Demo](https://eve5ince.github.io/html-css-popup/)  
+[Code base](https://github.com/eve5ince/html-css-popup)
